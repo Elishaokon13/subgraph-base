@@ -1,0 +1,8 @@
+{
+  "base": {
+    "Friend": {
+      "address": "0xf32B3aC421f2060A43999824Af695dC30706F562",
+      "startBlock": 2
+    }
+  }
+}
